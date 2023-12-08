@@ -8,6 +8,7 @@ This endeavor revolves around crafting a Python application that leverages the P
 [https://github.com/sumanth-21/PA2-Wine-Prediction/](https://github.com/sumanth-21/PA2-Wine-Prediction/)
 
 **Docker Hub:**
+[https://hub.docker.com/repository/docker/sp2927/winequlpred/general](https://hub.docker.com/repository/docker/sp2927/winequlpred/general)
 
 ## Execution Steps:
 
